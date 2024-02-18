@@ -31,6 +31,8 @@ Task 2
 Task 3
 --------
 
+**Lab 1 test cases running in Jenkins**
+
 [<img src="videos/video_thumbnail.png" alt="Watch the video" width="270"/>](videos/Task3.mp4)
 
 
@@ -48,16 +50,22 @@ Task 4
 Task 5
 --------
 
+**Created non-admin user and assigned permission to create job**
+
 [<img src="videos/video_thumbnail.png" alt="Watch the video" width="270"/>](videos/Task5.mp4)
 
 
 Task 6
 --------
 
+**Artifact for Lab 1 Build folder using Post build Task** 
+
 [<img src="videos/video_thumbnail.png" alt="Watch the video" width="270"/>](videos/Task6.mp4)
 
 
 Task 7
 --------
+
+**Created the parameter in the Job and displayed the parameter value using the build step**
 
 [<img src="videos/video_thumbnail.png" alt="Watch the video" width="270"/>](videos/Task7.mp4)
