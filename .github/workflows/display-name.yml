@@ -2,7 +2,7 @@ name: Display Name on Push
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   echoName:
