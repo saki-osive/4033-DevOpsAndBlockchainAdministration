@@ -1,0 +1,13 @@
+name: Display Name on Push
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  echoName:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Display Name
+        run: echo "Hello from Sarthak"
+
