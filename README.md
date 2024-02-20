@@ -23,5 +23,12 @@ Commit Tags for All Workflows
 ![Secret Workflow](https://github.com/saki-osive/4033-DevOpsAndBlockchainAdministration/actions/workflows/secret.yml/badge.svg)
 
 
+Video 
+-------
+
+[![Watch the video](video/video_thumbnail.png)](video/Lab-1.mp4)
+
+
+
 Add Jenkins Server URL
 ------------------------
