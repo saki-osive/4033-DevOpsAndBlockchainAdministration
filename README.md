@@ -5,15 +5,22 @@ Sarthak Kaushik (101471600)
 Lab-1
 ------
 
-Unit Test Status
-------------------
-
+Commit Tag for Unit Test Workflow
+-----------------------------------
 
 [![Unit Test Status](https://github.com/saki-osive/4033-DevOpsAndBlockchainAdministration/workflows/CI/badge.svg)](https://github.com/saki-osive/4033-DevOpsAndBlockchainAdministration/actions)
 
 
+Commit Tags for All Workflows
+-----------------------------------
 
-[![Unit Tests](https://github.com/saki-osive/4033-DevOpsAndBlockchainAdministration/workflows/Run%20Unit%20Tests/badge.svg)](https://github.com/saki-osive/4033-DevOpsAndBlockchainAdministration/actions?query=workflow%3A%22Run+Unit+Tests%22)
+![Build and Test](https://github.com/saki-osive/4033-DevOpsAndBlockchainAdministration/actions/workflows/build-and-test-npm.yml/badge.svg)
+
+![CI](https://github.com/saki-osive/4033-DevOpsAndBlockchainAdministration/actions/workflows/ci.yml/badge.svg)
+
+![Display Name on Push](https://github.com/saki-osive/4033-DevOpsAndBlockchainAdministration/actions/workflows/display-name.yml/badge.svg)
+
+![Secret Workflow](https://github.com/saki-osive/4033-DevOpsAndBlockchainAdministration/actions/workflows/secret.yml/badge.svg)
 
 
 Add Jenkins Server URL
