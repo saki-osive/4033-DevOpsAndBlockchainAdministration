@@ -1,10 +1,7 @@
 module.exports = {
-    extends: ['eslint:recommended'],
-    parserOptions: {
-        ecmaVersion: 2021,
-        sourceType: 'module',
-    },
+    extends: ['eslint:recommended', 'plugin:prettier/recommended'],
+    plugins: ['prettier'],
     rules: {
-        // Add your ESLint rules here
+        // Add any additional rules or overrides here
     },
 };
