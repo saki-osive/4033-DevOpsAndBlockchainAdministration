@@ -56,7 +56,7 @@ Create the file playbook yml and create file in both nodes. Show using screensho
 
 ![Image 24](images/24.png "Image 24")
 
-Try to create a directory using the ad-hoc command. PResent screenshots of the successful ansible run and directory in the nodes.
+Try to create a directory using the ad-hoc command. Present screenshots of the successful ansible run and directory in the nodes.
 --
 
 ![Image 25](images/25.png "Image 25")
