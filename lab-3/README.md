@@ -72,14 +72,14 @@ Try to create a directory using the ad-hoc command. Present screenshots of the s
 
 ![Image 30](images/30.png "Image 30")
 
-Delete the created file from Ansible with playbook:
+Create a new playbook to delete the file you created previously. Submit screenshots for the playbook run and screenshots that the file has been deleted from both nodes
 -----------------------------------------------------
 
 ![Image 31](images/31.png "Image 31")
 
 ![Image 32](images/32.png "Image 32")
 
-Create a yaml playbook to apply changes only for the test group:
+Create a new playbook for test group and demonstrate using the playbook output that you have updated only the test node
 -----------------------------------------------------------------
 
 
@@ -91,7 +91,7 @@ Create a yaml playbook to apply changes only for the test group:
 
 ![Image 36](images/36.png "Image 36")
 
-Install NodeJS in the workers using playbook
+Install Nodejs using nodejs yaml. There is a issue with yaml file you need to fix it. Once installed you will get the node and npm version screenshots. Also, the successful playbook run screenshot.
 ---------------------------------------------
 
 ![Image 37](images/37.png "Image 37")
@@ -102,7 +102,7 @@ Install NodeJS in the workers using playbook
 
 ![Image 40](images/40.png "Image 40")
 
-Git Clone and Build Node Modules
+Use the example node.yaml and clone the Lab 1 repo to both the nodes. Build the node modules
 ----------------------------------
 
 ![Image 41](images/41.png "Image 41")
