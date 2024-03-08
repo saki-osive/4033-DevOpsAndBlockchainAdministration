@@ -25,7 +25,7 @@ Create keys
 
 ![Image 5](images/5.png "Image 5")
 
-SSH and list inventory
+Setup the docker containers and ssh into the remote nodes from the control node.
 ------------------------
 
 ![Image 12](images/12.png "Image 12")
